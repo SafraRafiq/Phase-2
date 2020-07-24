@@ -82,11 +82,27 @@ This design alternative simply focuses on scheduling an interface where user wil
 
 ![Story Board1](https://github.com/SafraRafiq/Phase-2/blob/master/sb1.PNG)
 
+![Story Board2](https://github.com/SafraRafiq/Phase-2/blob/master/sb2.PNG)
+
 sb.PNG
 
 image.png
 
 ## Prototyping
+
+###### For Scheduling task
+
+![Prototype1](https://github.com/SafraRafiq/Phase-2/blob/master/p1.PNG)
+
+![Prototype2](https://github.com/SafraRafiq/Phase-2/blob/master/p2.PNG)
+
+![Prototype6](https://github.com/SafraRafiq/Phase-2/blob/master/p6.PNG)
+
+###### For Todo List
+
+![Prototype8](https://github.com/SafraRafiq/Phase-2/blob/master/p8.PNG)
+
+
 
 p3.PNG
 
