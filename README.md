@@ -105,7 +105,7 @@ This design alternative simply focuses on scheduling an interface where user wil
 
 ###### For Todo List
 
-![Prototype7](https://github.com/SafraRafiq/Phase-2/blob/master/p2.PNG)
+![Prototype7](https://github.com/SafraRafiq/Phase-2/blob/master/p.PNG)
 
 ![Prototype8](https://github.com/SafraRafiq/Phase-2/blob/master/p8.PNG)
-
+7
