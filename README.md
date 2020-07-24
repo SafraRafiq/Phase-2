@@ -80,6 +80,8 @@ This design alternative simply focuses on scheduling an interface where user wil
 
 ## Storyboards
 
+![Story Board1](https://github.com/SafraRafiq/Phase-2/blob/master/sb1.PNG)
+
 sb.PNG
 
 image.png
