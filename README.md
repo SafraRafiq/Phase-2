@@ -9,24 +9,29 @@ We aim to capture attention of those peoples and users that are fully loaded wit
 
 ## Design Alternatives
 
-#### 10 design alternatives
+### 10 design alternatives
 We create our design by having a look on similar applications and current trends. How they help user to accomplish their tasks, what more can we add in our design to gain more user attention and providing with friendly environment.
 
-###### For todo list
+#### For todo list
 
-** Design Alternative 1: **
+##### Design Alternative 1: 
+
 This design alternative will provide user with a plain interface. A dialog box will be present which take the user input of what task do the user want to add. After pressing add button task will be added. List of task will be shown on the same place. These tasks will be separated in different list namely completed tasks and incomplete tasks. In incomplete tasks list user will mark the checkbox of the task is completed and that task will move to completed task. 
 
-** Design Alternative 2: **
+##### Design Alternative 2: 
+
 This design alternative provides user an interface that will show them the current month at the top of the interface. Below this it will show the list of tasks that needs to be performed and beside each tasks it will also mention the date corresponding to the each task. It will also show the previous tasks list done before that day. User is also provided with an option to add new task beside the current date.  
 
-** Design Alternative 3: **
+##### Design Alternative 3: 
+
 This design alternative simply focuses on task providing an interface with which user can add a new task to perform. It will also show the already created tasks which user has already created before. It will also allow the user to delete the tasks when it is been completed and update the already created tasks. 
 
-** Design Alternative 4: **
+##### Design Alternative 4: 
+
 This design alternate will show the tasks on the screen that needs to be done for that specific day. Current page will display the task that needs to be done while the bottom of screen will show past activities I.e tasks that the user had already completed. In this past activities column, the tasks that are shown will be marked with success or missed once the task is completed by the user it will be marked with green tag that this task is completed while on the other the task that user failed to perform will be marked with red success. User can also add tasks against the current date.
 
-** Design Alternative 5: **
+##### Design Alternative 5: 
+
 This design alternate will display different categories like work, home, travel, study, grocery and all. Where users can categorize their tasks accordingly. When the user select a category it will move to next page which will show the total tasks against listed against the category user can mark it done or leave it. User can also add a new task in that category. On selecting the add new task option a new page will be displayed which ask the user what task they want to add and in which category they want add that task and date of the task that needs to be done on clicking on button create user task will be added to the application.
 
 ###### For Scheduling task
