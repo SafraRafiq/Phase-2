@@ -1,13 +1,32 @@
 # Phase 2: Narrowing down the Application
 
-# Task Finalization
+## Task Finalization
 We have selected two tasks that are To-Do list and Schedule. As we are moving towards advancements and every thing is advanced. Now, people often uses their gadgets and accessories to save and record their tasks which will provide them with the ease of access and ease of use where ever the user wants to get their information easily and quickly.
 To-Do list is an effective tool to capture each thing that needs to be done by the user where as the Schedule on the other hand will provide a focused goal for user considering personal priorities and other minor tasks.
 
-# Need Finding
+## Need Finding
 We aim to capture attention of those peoples and users that are fully loaded with their work and have hard time maintaining their data and priorities. Our aim is to provide our user an interface which is easily accessible and maintainable, providing user ease to explore and record tasks which needed their attention most, along which we want that our user have an friendly  environment which makes them easy for the user who can be anyone for example: Students,business person, housewife or working women.  
 
-# Design Alternatives
+## Design Alternatives
+
+#### 10 design alternatives
+We create our design by having a look on similar applications and current trends. How they help user to accomplish their tasks, what more can we add in our design to gain more user attention and providing with friendly environment.
+
+###### For todo list
+** Design Alternative 1: **
+This design alternative will provide user with a plain interface. A dialog box will be present which take the user input of what task do the user want to add. After pressing add button task will be added. List of task will be shown on the same place. These tasks will be separated in different list namely completed tasks and incomplete tasks. In incomplete tasks list user will mark the checkbox of the task is completed and that task will move to completed task. 
+** Design Alternative 2: **
+This design alternative provides user an interface that will show them the current month at the top of the interface. Below this it will show the list of tasks that needs to be performed and beside each tasks it will also mention the date corresponding to the each task. It will also show the previous tasks list done before that day. User is also provided with an option to add new task beside the current date.   
+** Design Alternative 4: **
+This design alternate will show the tasks on the screen that needs to be done for that specific day. Current page will display the task that needs to be done while the bottom of screen will show past activities I.e tasks that the user had already completed. In this past activities column, the tasks that are shown will be marked with success or missed once the task is completed by the user it will be marked with green tag that this task is completed while on the other the task that user failed to perform will be marked with red success. User can also add tasks against the current date.
+
+###### For Scheduling task
+
+** Design Alternative 6: **
+In this design we have simply focuses on scheduling interface. At the beginning User can see the todays date and the recent schedule of the day and a pointer which will point that at which task time it is as well as which task time has been past. There will also be a icon for calendar to show. Where he will be able to see other schedule by clicking on the specific date. The date will be bold where he has a task schedule. To move calendar dates there will arrow left and right. There will be a  plus(+) sign to add a task .user have to first click on the date and then Plus(+) sign to add the new schedule where another page will be appear where user can set time and gives detail of task. As well as user can update the schedule by clicking on the schedule and he can also delete it
+
+**** Design Alternative 7: **
+In this design we have focus on the easy to handle interface by user. User can see the calendar in weekly base. And below that user will be able to see his Schedule for recent date that he has already added. Furthermore he will also be able to see other schedule by clicking on the specific date. There will be colorful dot according to the number of task below the specific date, so, he will be able to see at what date he has a task. To move calendar dates there will arrow left and right. And user’s picture will be shown at the top right. There will be a  plus(+) sign to add a task .user have to first click on the date and then Plus(+) sign to add the new schedule where another page will be appear where user can set time and gives detail of task and open the notify option that will notify the user 5 min before the given timing. As well as user can update the schedule by clicking on the schedule and he can also delete it.
 
 ## Personas
 
@@ -33,4 +52,8 @@ We aim to capture attention of those peoples and users that are fully loaded wit
 3.Chang Wook is a business man. He has urgent meetings and very tight schedule which kept him busy. His secretory always sends him work schedule or his appointment on the her cell. He had an application where he saves his appointment. It helps in keeping his work and personal life organized. Now, he simply have a look at his schedule planner and make his plans accordingly.
 
 4.Ae Ra is an receptionist. Her job is tiring she tries her best to keep things aligned and perform her work well. She tried to keep notes for his daily chores on a slip but she always ended up losing them. She wanted an app that helps her keeping her tasks and schedule at in place. She downloaded the application which has a friendly atmosphere, she interact with different features and found them useful. Now she uses the application and make notes and notes her tasks in one place.
+
+## Storyboards
+
+##Prototyping##
 
