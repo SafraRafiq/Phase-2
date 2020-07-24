@@ -55,5 +55,17 @@ In this design we have focus on the easy to handle interface by user. User can s
 
 ## Storyboards
 
-##Prototyping##
+sb.PNG
+
+image.png
+
+## Prototyping
+
+p3.PNG
+
+p4.PNG
+
+p6.PNG
+
+p7.PNG
 
