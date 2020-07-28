@@ -93,13 +93,11 @@ This design alternative simply focuses on scheduling an interface where user wil
 
 ![Prototype1](https://github.com/SafraRafiq/Phase-2/blob/master/prototype1.PNG)
 
+![Prototype2](https://github.com/SafraRafiq/Phase-2/blob/master/prototype2.PNG)
+
 ![Prototype3](https://github.com/SafraRafiq/Phase-2/blob/master/prototype3.jpeg)
 
-![Prototype3](https://github.com/SafraRafiq/Phase-2/blob/master/p3.PNG)
-
-![Prototype4](https://github.com/SafraRafiq/Phase-2/blob/master/p4.PNG)
-
-![Prototype5](https://github.com/SafraRafiq/Phase-2/blob/master/p5.PNG)
+![Prototype4](https://github.com/SafraRafiq/Phase-2/blob/master/prototype4.jpeg)
 
 
 ###### For Todo List
