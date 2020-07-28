@@ -91,9 +91,9 @@ This design alternative simply focuses on scheduling an interface where user wil
 
 ###### For Scheduling task
 
-![Prototype1](https://github.com/SafraRafiq/Phase-2/blob/master/p1.PNG)
+![Prototype1](https://github.com/SafraRafiq/Phase-2/blob/master/prototype1.PNG)
 
-![Prototype2](https://github.com/SafraRafiq/Phase-2/blob/master/p2.PNG)
+![Prototype2](https://github.com/SafraRafiq/Phase-2/blob/master/prototype3.PNG)
 
 ![Prototype3](https://github.com/SafraRafiq/Phase-2/blob/master/p3.PNG)
 
