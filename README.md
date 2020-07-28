@@ -101,7 +101,6 @@ This design alternative simply focuses on scheduling an interface where user wil
 
 ![Prototype5](https://github.com/SafraRafiq/Phase-2/blob/master/p5.PNG)
 
-![Prototype6](https://github.com/SafraRafiq/Phase-2/blob/master/p6.PNG)
 
 ###### For Todo List
 
