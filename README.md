@@ -93,7 +93,7 @@ This design alternative simply focuses on scheduling an interface where user wil
 
 ![Prototype1](https://github.com/SafraRafiq/Phase-2/blob/master/prototype1.PNG)
 
-![Prototype3](https://github.com/SafraRafiq/Phase-2/blob/master/prototype3.PNG)
+![Prototype3](https://github.com/SafraRafiq/Phase-2/blob/master/prototype3.jpeg)
 
 ![Prototype3](https://github.com/SafraRafiq/Phase-2/blob/master/p3.PNG)
 
